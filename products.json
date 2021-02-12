@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6023c51c7c3a1930bb761ced"
+  },
+  "categories": "thrashmetal",
+  "descripton": "Destruction - Born To Thrash - Live",
+  "price": 10,
+  "finalprice": 7,
+  "images": "./assets/destuction.jpg"
+},{
+  "_id": {
+    "$oid": "6023c6b185759146104c2648"
+  },
+  "categories": "thrashmetal",
+  "descripton": "Krisiun - Assassination",
+  "price": 10,
+  "finalprice": 6,
+  "images": "./assets/krisiun.jpg"
+},{
+  "_id": {
+    "$oid": "6023c6f185759146104c2649"
+  },
+  "categories": "thrashmetal",
+  "descripton": "Sepultura - Roots",
+  "price": 11,
+  "finalprice": 8,
+  "images": "./assets/roots.jpg"
+},{
+  "_id": {
+    "$oid": "6023c79385759146104c264a"
+  },
+  "categories": "thrashmetal",
+  "descripton": "Sepultura - the madiatror between Head",
+  "price": 10,
+  "finalprice": 7,
+  "images": "./assets/sepultura.jpg"
+},{
+  "_id": {
+    "$oid": "6023c7c185759146104c264b"
+  },
+  "categories": "progressivemetal",
+  "descripton": "Dee purple - Machine head",
+  "price": 11,
+  "finalprice": 8,
+  "images": "./assets/deeppurple.jpg"
+},{
+  "_id": {
+    "$oid": "6023c7f485759146104c264c"
+  },
+  "categories": "heavymetal",
+  "descripton": "dr sin - alive",
+  "price": 15,
+  "finalprice": 7,
+  "images": "./assets/drsin.jpg"
+},{
+  "_id": {
+    "$oid": "6023c82385759146104c264d"
+  },
+  "categories": "heavymetal",
+  "descripton": "Mottor Head - Clean your clok",
+  "price": 10,
+  "finalprice": 7,
+  "images": "./assets/mottorhead.jpg"
+},{
+  "_id": {
+    "$oid": "6023c84f85759146104c264e"
+  },
+  "categories": "heavymetal",
+  "descripton": "Iron Maiden - killers",
+  "price": 18,
+  "finalprice": 16,
+  "images": "./assets/iron-maiden-killers.jpg"
+},{
+  "_id": {
+    "$oid": "6023c87f85759146104c264f"
+  },
+  "categories": "hardrock",
+  "descripton": "Aerosmith - The millennium collection",
+  "price": 10,
+  "finalprice": 6,
+  "images": "./assets/aerosmith.jpg"
+},{
+  "_id": {
+    "$oid": "6023c8b985759146104c2650"
+  },
+  "categories": "hardrock",
+  "descripton": "Aerosmith - Permanent Vacation",
+  "price": 15,
+  "finalprice": 14,
+  "images": "./assets/tuathadedanna.jpg"
+},{
+  "_id": {
+    "$oid": "6023c8eb85759146104c2651"
+  },
+  "categories": "folkmetal",
+  "descripton": "Tuatha de danna - The tribes of witching souls",
+  "price": 15,
+  "finalprice": 7,
+  "images": "./assets/tuathadedanna.jpg"
+},{
+  "_id": {
+    "$oid": "6023c92785759146104c2652"
+  },
+  "categories": "blackmetal",
+  "descripton": "Cradle of filth - Cruel and the beast",
+  "price": 11,
+  "finalprice": 7,
+  "images": "./assets/cradleoffilth.jpg"
+}]
