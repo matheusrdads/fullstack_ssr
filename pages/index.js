@@ -12,7 +12,7 @@ export default function Products() {
 
     function getProdutos() {
         async function showProdutos() {
-            const url = "http://localhost:5001/products";
+            const url = "http://localhost:4444/products";
             const resposta = await fetch(url);
             const resultado = await resposta.json();
             setProdutos(resultado);
